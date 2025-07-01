@@ -1,24 +1,24 @@
 # bumeran-ds-jobs-scraper
-# Web Scraping de Ofertas de Empleo en Ciencia de Datos - Bumeran
+# Web Scraping of Data Science Job Listings - Bumeran
 
-Este proyecto consiste en la automatización del proceso de extracción de datos sobre ofertas laborales relacionadas con **Data Science** publicadas en el portal **Bumeran Perú**. Utilizando técnicas de scraping con `Python` y `BeautifulSoup`, se recopila información relevante para el análisis de tendencias en el mercado laboral.
+This project focuses on automating the extraction of data from job listings related to **Data Science** posted on the **Bumeran Peru** portal. Using scraping techniques with `Python` and `BeautifulSoup`, it collects relevant information for analyzing trends in the job market.
 
-## Objetivo
+## Objective
 
-Recolectar y estructurar información de ofertas laborales en Data Science para su posterior análisis, visualización o uso en modelos predictivos. Se extraen detalles como:
+To collect and structure information from Data Science job listings for subsequent analysis, visualization, or use in predictive models. The extracted details include:
 
-- Título del puesto
-- Descripción de funciones
-- Distrito del empleo
-- Modalidad de trabajo (remoto, híbrido, presencial)
+- Job Title
+- Description of Responsibilities
+- Job District
+- Work Mode (remote, hybrid, on-site)
 
-## Herramientas y tecnologías
+## Tools and Technologies
 
 - `Python`
 - `BeautifulSoup`
 - `Requests`
 - `Pandas`
-- `Jupyter Notebook` (opcional para visualización)
-- `CSV` para almacenamiento de resultados
+- `Jupyter Notebook` (optional for visualization)
+- `CSV` for storing results
 
 
